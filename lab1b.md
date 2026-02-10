@@ -217,6 +217,7 @@ This is exactly how companies do it:
 When students can Terraform this, they’re doing real cloud engineering.
 
 
-
-
-
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
